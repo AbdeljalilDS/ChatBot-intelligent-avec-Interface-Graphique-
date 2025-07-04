@@ -1,0 +1,14 @@
+# 🤖 ChatBot Stylé (Python + CustomTkinter)
+
+Un chatbot graphique en Python avec une interface moderne utilisant `customtkinter`. Il comprend des réponses de base aux messages utilisateurs avec un style soigné.
+
+## 💻 Fonctionnalités :
+- Interface stylée (mode dark/light)
+- Zone de chat scrollable
+- Placeholder interactif
+- Réponses simples et modifiables
+
+## ▶️ Lancer
+```bash
+pip install customtkinter
+python main.py
